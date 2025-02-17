@@ -1,6 +1,6 @@
 # Oi, sou Iza :)
 
-![Banner](https://i.pinimg.com/736x/1f/44/87/1f4487b684c3a41986a28284ee85fe06.jpg)
+![Banner](https://i.pinimg.com/736x/5d/89/11/5d8911278550831398a8340940d6785e.jpg)
 
 Sou um desenvolvedor apaixonado por aprender novas tecnologias e compartilhar conhecimento. Aqui estão algumas coisas que estou fazendo e habilidades que possuo:
 
