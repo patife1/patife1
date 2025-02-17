@@ -1,5 +1,6 @@
 # oioii 👋
 ###### oi?
+![Banner](https://www.exemplo.com/seu-banner.png)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patife1&layout=compact)
 
