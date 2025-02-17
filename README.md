@@ -1,6 +1,6 @@
-# Olá, sou Fulano 👋
+# Olá, sou Iza :)
 
-![Banner](https://i.pinimg.com/736x/93/62/31/936231a95115433c74f2c731ceacdf07.jpg)
+![Banner](https://i.pinimg.com/736x/1f/44/87/1f4487b684c3a41986a28284ee85fe06.jpg)
 
 Sou um desenvolvedor apaixonado por aprender novas tecnologias e compartilhar conhecimento. Aqui estão algumas coisas que estou fazendo e habilidades que possuo:
 
