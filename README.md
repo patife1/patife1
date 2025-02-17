@@ -9,13 +9,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-## Contribuições
-
-![Contributions](https://github-contribution-grid-sigma-five.vercel.app/api/?username=patife1)
-
-## Linguagens que uso
-
-![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=patife1&layout=compact)
+<div style="width: 200px;">
+<a href="https://github.com/patife1/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patife1&langs_count=8" alt="Top Langs" />
+</a>
+</div>
 
 
 
