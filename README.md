@@ -1,31 +1,20 @@
-# Olá, sou Iza :)
+# Oi, sou Iza :)
 
 ![Banner](https://i.pinimg.com/736x/1f/44/87/1f4487b684c3a41986a28284ee85fe06.jpg)
 
 Sou um desenvolvedor apaixonado por aprender novas tecnologias e compartilhar conhecimento. Aqui estão algumas coisas que estou fazendo e habilidades que possuo:
 
-- 💻 Desenvolvendo com **Python**, **JavaScript** e **C#**.
-- 📚 Aprendendo sobre **Machine Learning** e **Inteligência Artificial**.
+- 💻 Desenvolvendo com **HTML**, **JavaScript** e **C#**.
+- 📚 Aprendendo sobre **Fundamentos da Tecnologia** e **Lógica de Programação**.
 - 💬 Procuro colaborar em projetos open-source.
 
 ## 🚀 Habilidades
 
-- **Frontend**: React, HTML, CSS
-- **Backend**: Node.js, Python (Flask/Django)
-- **Banco de Dados**: PostgreSQL, MongoDB
+- **Frontend**: HTML, CSS
 
 ## Me encontre nas redes sociais!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulano/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fulano)
-
-## 🚀 Projetos em Destaque
-
-| Repositório       | Linguagem | Descrição                          |
-| ----------------- | --------- | ----------------------------------- |
-| [**Projeto 1**](https://github.com/fulano/projeto-1) | Python      | Um projeto incrível em Python! |
-| [**Projeto 2**](https://github.com/fulano/projeto-2) | JavaScript  | Um projeto incrível em JavaScript! |
-| [**Projeto 3**](https://github.com/fulano/projeto-3) | C#          | Um projeto incrível em C#! |
 
 ## 📈 GitHub Stats
 
@@ -37,5 +26,4 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e compartilhar co
 
 ## 🎯 Status Atual
 
-- 🔨 Estou trabalhando em **Projeto XYZ**
-- 📈 Meta: Concluir aprendizado sobre **React.js** até o final do mês.
+- 🔨 Estou estudando **C#**
