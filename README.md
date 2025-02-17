@@ -1,6 +1,6 @@
 # Olá, sou Fulano 👋
 
-![Banner](https://www.exemplo.com/seu-banner.png)
+![Banner](936231a95115433c74f2c731ceacdf07.jpg)
 
 Sou um desenvolvedor apaixonado por aprender novas tecnologias e compartilhar conhecimento. Aqui estão algumas coisas que estou fazendo e habilidades que possuo:
 
