@@ -13,6 +13,7 @@ Sou um desenvolvedor apaixonado por aprender novas tecnologias e compartilhar co
 - **Frontend**: HTML, CSS
 
 ## Me encontre nas redes sociais!
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/patife_kjk/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fulano/)
 
