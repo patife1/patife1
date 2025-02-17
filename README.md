@@ -1,7 +1,7 @@
 # oioii 👋
 ###### oi?
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patife1&layout=compact)
 
 # Me encontre nas redes sociais!
 
